@@ -65,4 +65,4 @@
 * FPGA系统设计与实例[M]. 人民邮电出版社 , 杨晓慧, 2009
 * Hardware design and implementation of a novel ANN-based shaotic generator in FPGA[J]. Murat Alçin,İhsan Pehlivan,İsmail Koyuncu.  Optik - International Journal for Light and Electron Optics.
    
-   
+   reyrd
